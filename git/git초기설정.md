@@ -3,6 +3,8 @@
 ```md
 git config --gloabal user.name "name"
 git config --gloabal user.email email
+
+git config credential.helper store
 ```
 
 2021.03.03
