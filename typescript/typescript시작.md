@@ -53,4 +53,6 @@ noUnusedLocals: 사용안하는 로컬 변수가 있으면 에러 처리(Boolean
 npm 홈페이지 들어가서 ts를 지원하는지 확인 후
 지원하지 않는다면 @types/library로 설치
 
+
+
 2021/04/03
