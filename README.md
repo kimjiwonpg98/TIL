@@ -16,6 +16,7 @@
 - [target](https://github.com/kimjiwonpg98/TIL/blob/master/javascript/target.md)
 - [즉시실행함수](https://github.com/kimjiwonpg98/TIL/blob/master/javascript/%EC%A6%89%EC%8B%9C%EC%8B%A4%ED%96%89%ED%95%A8%EC%88%98.md)
 - [parent,childNode](https://github.com/kimjiwonpg98/TIL/blob/master/javascript/parent%2CchildNode.md)
+- [구조분해할당](https://github.com/kimjiwonpg98/TIL/blob/master/javascript/%EA%B5%AC%EC%A1%B0%EB%B6%84%ED%95%B4%ED%95%A0%EB%8B%B9.md)
 
 ## 🏃‍♂️ git
 -----
@@ -47,6 +48,8 @@
 - 전역관리
   - [Context](https://github.com/kimjiwonpg98/TIL/blob/master/react-native/%EC%A0%84%EC%97%AD%EA%B4%80%EB%A6%AC/Context.md)
   - [useContext](https://github.com/kimjiwonpg98/TIL/blob/master/react-native/%EC%A0%84%EC%97%AD%EA%B4%80%EB%A6%AC/useContext.md)
+- [navigation](https://github.com/kimjiwonpg98/TIL/blob/master/react-native/navigation/navigation.md)
+- [stack navigation](https://github.com/kimjiwonpg98/TIL/blob/master/react-native/navigation/stack.md)
 
 ### 😎 오류 해결
 - [undefined is not a function(near '..._native~~)](https://github.com/kimjiwonpg98/TIL/blob/master/react-native/error/undefined_is_not_a_function(near~~).md)
