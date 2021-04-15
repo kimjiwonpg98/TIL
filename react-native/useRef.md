@@ -16,7 +16,7 @@ react에서는 querySelector같은 DOM Selector함수 대신 useRef를 사용한
 
 ## 🧐 사용방법
 ---
-1. 먼저 **const 변수 = useRef();**로 ref 설정
+1. 먼저 **const 변수 = useRef();** 로 ref 설정
 2. 컴포넌트 안에서 **ref={변수}** 나 **변수.current.focus();** 로 포커스를 맞춘다.
 
 
