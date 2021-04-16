@@ -41,8 +41,8 @@ const StackNavigation = () => {
 -------
 
 ### 화면 이동
-Screen 컴포넌트의 component로 지정된 컴포넌트는 화면으로 이용 <br>
-navigation이 props로 전달된다.
+1. Screen 컴포넌트의 component로 지정된 컴포넌트는 화면으로 이용
+2. navigation이 props로 전달된다.
 
 그래서 화면 이동은 Screen 컴포넌트의 component로 지정된 컴포넌트에서 설정
 **navigation.navigate("원하는 화면 이름")**으로 사용!!
@@ -61,4 +61,10 @@ const List = {{ navigation }} => {
 };
 ```
 전달받는 컴포넌트에서는 route의 params로 받음(example: route.params.id)
+
+### 화면 전체를 차지하기 위해 사용하는 옵션
+Stack.Navigator안에
+```js
+screenOptions={{cardStyle: {backgroundColor: "#ffffff"}}}
+```
 
