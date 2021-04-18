@@ -1,19 +1,14 @@
-number = input();
+number = int(input());
 
-if (int(number) < 9): number = number + str(0)
-first = number;
+first = number
+
 result = 0;
 
 while 1:
-  x = int(number[0])
-  y = int(number[1])
   result += 1
-  sum = x + y
-
-  if (sum > 9 ): z = str(sum % 10)
-  else: z = str(sum)
-
-  number = str(y) + z
-  if (number == first): break
+  num = number // 10 + number % 10
+  new_num = (number % 10)*10 + num % 10
+  number = new_num
+  if (new_num == first): break
 
 print(result)
