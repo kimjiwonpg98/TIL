@@ -5,6 +5,9 @@
 ## 🏃‍♂️ javascript
 --------------------------------------------------------
 
+### 📖 관련지식
+- [작동방식](https://github.com/kimjiwonpg98/TIL/blob/master/javascript/%EC%9E%91%EB%8F%99%EB%B0%A9%EC%8B%9D.md)
+
 ### ⚙ 모듈
 - [bcrypt](https://github.com/kimjiwonpg98/TIL/blob/master/javascript/bcrypt.md)
 - [child_process](https://github.com/kimjiwonpg98/TIL/blob/master/javascript/child_process.md)
@@ -54,3 +57,23 @@
 
 ### 😎 오류 해결
 - [undefined is not a function(near '..._native~~)](https://github.com/kimjiwonpg98/TIL/blob/master/react-native/error/undefined_is_not_a_function(near~~).md)
+- [Component_Exception](https://github.com/kimjiwonpg98/TIL/blob/master/react-native/error/Component_Exception.md)
+
+## 🏃‍♂️ python
+--------------------------------
+
+### 📖 관련지식
+- 문법
+  - [기초입출력](https://github.com/kimjiwonpg98/TIL/blob/master/python/%EB%AC%B8%EB%B2%95/%EA%B8%B0%EC%B4%88/%EA%B8%B0%EC%B4%88%EC%9E%85%EC%B6%9C%EB%A0%A5.md)
+  - [공백규칙](https://github.com/kimjiwonpg98/TIL/blob/master/python/%EB%AC%B8%EB%B2%95/%EA%B8%B0%EC%B4%88/%EA%B3%B5%EB%B0%B1.md)
+  - [변수명](https://github.com/kimjiwonpg98/TIL/blob/master/python/%EB%AC%B8%EB%B2%95/%EA%B8%B0%EC%B4%88/%EC%9D%B4%EB%A6%84%EA%B0%80%EC%9D%B4%EB%93%9C.md)
+
+
+## 👨‍💻 코딩테스트
+--------------------------------------------------------
+
+### 📖 관련지식
+
+
+### ✍ 문제풀이
+- [백준](https://github.com/kimjiwonpg98/TIL/tree/master/python/coding-test/%EB%B0%B1%EC%A4%80)
