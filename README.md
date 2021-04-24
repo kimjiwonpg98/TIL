@@ -79,3 +79,11 @@
 
 ### ✍ 문제풀이
 - [백준](https://github.com/kimjiwonpg98/TIL/tree/master/python/coding-test/%EB%B0%B1%EC%A4%80)
+
+
+## 📖 DB
+--------------------------------------------------------
+
+### MYSQL
+
+-[INSERT](https://github.com/kimjiwonpg98/TIL/blob/master/DB/mysql/INSERT.md)
