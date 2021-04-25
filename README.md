@@ -88,4 +88,4 @@
 
 ### MYSQL
 
--[INSERT](https://github.com/kimjiwonpg98/TIL/blob/master/DB/mysql/INSERT.md)
+- [INSERT](https://github.com/kimjiwonpg98/TIL/blob/master/DB/mysql/INSERT.md)
