@@ -64,12 +64,12 @@
 --------------------------------
 
 ### 📖 관련지식
-- [vscode초기설정](https://github.com/kimjiwonpg98/TIL/blob/master/python/grammer/%EC%B4%88%EA%B8%B0%EC%84%A4%EC%A0%95.md)
+- [vscode초기설정](https://github.com/kimjiwonpg98/TIL/blob/master/python/settings/%EC%B4%88%EA%B8%B0%EC%84%A4%EC%A0%95.md)
 - 문법
   - [기초입출력](https://github.com/kimjiwonpg98/TIL/blob/master/python/%EB%AC%B8%EB%B2%95/%EA%B8%B0%EC%B4%88/%EA%B8%B0%EC%B4%88%EC%9E%85%EC%B6%9C%EB%A0%A5.md)
   - [공백규칙](https://github.com/kimjiwonpg98/TIL/blob/master/python/%EB%AC%B8%EB%B2%95/%EA%B8%B0%EC%B4%88/%EA%B3%B5%EB%B0%B1.md)
   - [변수명](https://github.com/kimjiwonpg98/TIL/blob/master/python/%EB%AC%B8%EB%B2%95/%EA%B8%B0%EC%B4%88/%EC%9D%B4%EB%A6%84%EA%B0%80%EC%9D%B4%EB%93%9C.md)
-
+  - [lambda](https://github.com/kimjiwonpg98/TIL/blob/master/python/%EB%AC%B8%EB%B2%95/lambda.md)
 
 ## 👨‍💻 코딩테스트
 --------------------------------------------------------
