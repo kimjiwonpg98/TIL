@@ -70,6 +70,7 @@
   - [공백규칙](https://github.com/kimjiwonpg98/TIL/blob/master/python/%EB%AC%B8%EB%B2%95/%EA%B8%B0%EC%B4%88/%EA%B3%B5%EB%B0%B1.md)
   - [변수명](https://github.com/kimjiwonpg98/TIL/blob/master/python/%EB%AC%B8%EB%B2%95/%EA%B8%B0%EC%B4%88/%EC%9D%B4%EB%A6%84%EA%B0%80%EC%9D%B4%EB%93%9C.md)
   - [lambda](https://github.com/kimjiwonpg98/TIL/blob/master/python/%EB%AC%B8%EB%B2%95/lambda.md)
+  - [reverse 여러가지 방법](https://github.com/kimjiwonpg98/TIL/blob/master/python/%EB%AC%B8%EB%B2%95/reverse%EC%99%80reversed.md)
 
 ## 👨‍💻 코딩테스트
 --------------------------------------------------------
