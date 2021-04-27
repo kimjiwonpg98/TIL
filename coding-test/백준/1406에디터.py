@@ -1,5 +1,5 @@
 import sys
-
+# sys는 \n까지 저장 strip()붙여주자
 word = list(sys.stdin.readline().strip())
 word_stack = []
 order_length = int(sys.stdin.readline())
