@@ -21,6 +21,7 @@
 - [parent,childNode](https://github.com/kimjiwonpg98/TIL/blob/master/javascript/parent%2CchildNode.md)
 - [구조분해할당](https://github.com/kimjiwonpg98/TIL/blob/master/javascript/%EA%B5%AC%EC%A1%B0%EB%B6%84%ED%95%B4%ED%95%A0%EB%8B%B9.md)
 - [정규표현식](https://github.com/kimjiwonpg98/TIL/blob/master/javascript/%EC%A0%95%EA%B7%9C%ED%91%9C%ED%98%84%EC%8B%9D.md)
+- [this](https://github.com/kimjiwonpg98/TIL/blob/master/javascript/this.md)
 
 ## 🏃‍♂️ git
 -----
