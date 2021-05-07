@@ -60,6 +60,7 @@
 ### 😎 오류 해결
 - [undefined is not a function(near '..._native~~)](https://github.com/kimjiwonpg98/TIL/blob/master/react-native/error/undefined_is_not_a_function(near~~).md)
 - [Component_Exception](https://github.com/kimjiwonpg98/TIL/blob/master/react-native/error/Component_Exception.md)
+- [Encountered two children with the same key](https://github.com/kimjiwonpg98/TIL/blob/master/react-native/error/Encountered%20two%20children%20with%20the%20same%20key.md)
 
 ## 🏃‍♂️ python
 --------------------------------
