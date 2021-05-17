@@ -98,3 +98,4 @@
 --------------------------------------------------------
 
 - [CSRF](https://github.com/kimjiwonpg98/TIL/blob/master/server/CSRF.md)
+- [CORS](https://github.com/kimjiwonpg98/TIL/blob/master/server/cors.md)
