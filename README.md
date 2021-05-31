@@ -53,7 +53,6 @@
 
 ### 📖 관련지식
 
-- [PROXY](https://github.com/kimjiwonpg98/TIL/blob/master/Knowledge/PROXY.md)
 
 ### ✍ 문제풀이
 - [백준](https://github.com/kimjiwonpg98/TIL/tree/master/coding-test/%EB%B0%B1%EC%A4%80)
@@ -74,6 +73,7 @@
 
 - [CSRF](https://github.com/kimjiwonpg98/TIL/blob/master/server/CSRF.md)
 - [CORS](https://github.com/kimjiwonpg98/TIL/blob/master/server/cors.md)
+- [PROXY](https://github.com/kimjiwonpg98/TIL/blob/master/Knowledge/PROXY.md)
 
 
 ## 🏃‍♂️ AWS
