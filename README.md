@@ -74,7 +74,7 @@
 - [CSRF](https://github.com/kimjiwonpg98/TIL/blob/master/server/CSRF.md)
 - [CORS](https://github.com/kimjiwonpg98/TIL/blob/master/server/cors.md)
 - [PROXY](https://github.com/kimjiwonpg98/TIL/blob/master/Knowledge/PROXY.md)
-
+- [HTTP 상태코드](https://github.com/kimjiwonpg98/TIL/blob/master/server/HTTP%EC%83%81%ED%83%9C%EC%BD%94%EB%93%9C.md)
 
 ## 🏃‍♂️ AWS
 --------------------------------
