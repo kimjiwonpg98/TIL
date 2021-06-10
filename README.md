@@ -68,7 +68,7 @@
 - [INSERT](https://github.com/kimjiwonpg98/TIL/blob/master/DB/mysql/INSERT.md)
 
 
-## ⚙ SERVER 관련 지식
+## ⚙ SERVER
 --------------------------------------------------------
 
 - [CSRF](https://github.com/kimjiwonpg98/TIL/blob/master/server/CSRF.md)
@@ -76,12 +76,14 @@
 - [PROXY](https://github.com/kimjiwonpg98/TIL/blob/master/Knowledge/PROXY.md)
 - [HTTP 상태코드](https://github.com/kimjiwonpg98/TIL/blob/master/server/HTTP%EC%83%81%ED%83%9C%EC%BD%94%EB%93%9C.md)
 
-## 🏃‍♂️ AWS
---------------------------------
-
-- [cloudfront 개념](??)
-- [CloudFront를 이용한 이미지 캐시 서버 구축](https://github.com/kimjiwonpg98/TIL/blob/master/AWS/cloudfront.md)
-
+### 🏃‍♂️ AWS
+- EC2
+- cloudfront
+  - [cloudfront 개념](??)
+  - [CloudFront를 이용한 이미지 캐시 서버 구축](https://github.com/kimjiwonpg98/TIL/blob/master/AWS/cloudfront.md)
+### 🏃‍♂️ Nginx
+- error
+  - [파일 업로드 크기 제한](https://github.com/kimjiwonpg98/TIL/blob/master/nginx/error/%ED%8C%8C%EC%9D%BC_%EC%97%85%EB%A1%9C%EB%93%9C_%EC%9A%A9%EB%9F%89_%EC%A0%9C%ED%95%9C.md)
 
 ## 🏃‍♂️ react-native
 --------------------------------
