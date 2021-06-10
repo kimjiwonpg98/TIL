@@ -110,3 +110,10 @@
 - [undefined is not a function(near '..._native~~)](https://github.com/kimjiwonpg98/TIL/blob/master/react-native/error/undefined_is_not_a_function(near~~).md)
 - [Component_Exception](https://github.com/kimjiwonpg98/TIL/blob/master/react-native/error/Component_Exception.md)
 - [Encountered two children with the same key](https://github.com/kimjiwonpg98/TIL/blob/master/react-native/error/Encountered%20two%20children%20with%20the%20same%20key.md)
+   
+<br>   
+
+## 👨‍💻 Window
+--------------------------------
+### 🐱‍👤 wsl2
+- [권한 조정 명령어 미작동 시 코드](https://github.com/kimjiwonpg98/TIL/blob/master/wsl2/%EA%B6%8C%ED%95%9C_%EC%A1%B0%EC%A0%95_%EB%AA%85%EB%A0%B9%EC%96%B4_%EB%AF%B8%EC%9E%91%EB%8F%99.md)
