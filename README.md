@@ -118,6 +118,6 @@
 ### 🐱‍👤 wsl2
 - [권한 조정 명령어 미작동 시 코드](https://github.com/kimjiwonpg98/TIL/blob/master/wsl2/%EA%B6%8C%ED%95%9C_%EC%A1%B0%EC%A0%95_%EB%AA%85%EB%A0%B9%EC%96%B4_%EB%AF%B8%EC%9E%91%EB%8F%99.md)
 
-### 기술 면접
+### 💫 기술 면접
 - [process&thread](https://github.com/kimjiwonpg98/TIL/blob/master/Knowledge/process%26thread.md)
 - [mount](https://github.com/kimjiwonpg98/TIL/blob/master/Knowledge/mount.md)
