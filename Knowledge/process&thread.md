@@ -49,12 +49,15 @@ a1을 꺼내기 위해 마지막까지 기다려야합니다.
 
 ### 멀티 프로세싱
 
+![멀티프로세싱](https://user-images.githubusercontent.com/75289370/121638799-89d97f80-cac6-11eb-9187-b382224044ce.PNG)
+
 프로세스간의 공유하는 것 없이 각자 독립적으로 작업합니다.   
 통신은 IPC(Inter Process Communication)을 통해 이루어집니다.
 
 
 ### 멀티 쓰레딩
 
+![멀티 쓰레딩](https://user-images.githubusercontent.com/75289370/121638833-978f0500-cac6-11eb-8d6c-9cba8eea862b.png)
 
 한개의 프로세스 안에서 여러 개의 쓰레드를 갖게 되는데   
 쓰레드들은 서로 공유하게 되고 메모리 영역을 공유하는 것이라 볼 수 있습니다.
