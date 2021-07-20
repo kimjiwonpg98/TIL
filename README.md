@@ -125,3 +125,4 @@
 ### 💫 기술 면접
 - [process&thread](https://github.com/kimjiwonpg98/TIL/blob/master/Knowledge/process%26thread.md)
 - [mount](https://github.com/kimjiwonpg98/TIL/blob/master/Knowledge/mount.md)
+- [RESTFul개발방식](https://github.com/kimjiwonpg98/TIL/blob/master/Knowledge/RESTFul.md)
