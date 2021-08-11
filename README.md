@@ -95,7 +95,7 @@
 ### 🏃‍♂️ NHN Cloud
 
 - [container]
-- [image 관리]
+- [image 관리](https://github.com/kimjiwonpg98/TIL/blob/master/NHN/image.md)
 
 ## 🏃‍♂️ react-native
 --------------------------------
