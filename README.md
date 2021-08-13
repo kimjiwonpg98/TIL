@@ -130,6 +130,7 @@
 --------------------------------
 ### 🐱‍👤 wsl2
 - [권한 조정 명령어 미작동 시 코드](https://github.com/kimjiwonpg98/TIL/blob/master/wsl2/%EA%B6%8C%ED%95%9C_%EC%A1%B0%EC%A0%95_%EB%AA%85%EB%A0%B9%EC%96%B4_%EB%AF%B8%EC%9E%91%EB%8F%99.md)
+- [docker사용시 메모리 과다 현상](https://github.com/kimjiwonpg98/TIL/blob/master/wsl2/docker%EC%82%AC%EC%9A%A9%EC%8B%9C%EB%A9%94%EB%AA%A8%EB%A6%AC%EA%B3%BC%EB%8B%A4%ED%98%84%EC%83%81.md)
 
 ### 💫 기술 면접
 - [process&thread](https://github.com/kimjiwonpg98/TIL/blob/master/Knowledge/process%26thread.md)
