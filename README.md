@@ -34,7 +34,7 @@
 - [branch](https://github.com/kimjiwonpg98/TIL/blob/master/git/branch.md)
 ### 😎 오류 해결
 - [rejected오류](https://github.com/kimjiwonpg98/TIL/blob/master/git/rejected%EC%98%A4%EB%A5%98%ED%95%B4%EA%B2%B0.md)
-
+- [사용자 이름과 암호 입력안하게 하는 법](https://github.com/kimjiwonpg98/TIL/blob/master/git/ssh%EC%84%A4%EC%A0%95%EC%9D%B4%ED%9B%84%EB%A1%9C%EA%B7%B8%EC%9D%B8%EC%97%86%EC%9D%B4push.md)
 
 ## 🏃‍♂️ python
 --------------------------------
