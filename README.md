@@ -63,10 +63,14 @@
 ## 📖 DB
 --------------------------------------------------------
 
-### MYSQL
+### MYSQL / MariaDB
 
 - [INSERT](https://github.com/kimjiwonpg98/TIL/blob/master/DB/mysql/INSERT.md)
 - [MYSQL백업방법](https://github.com/kimjiwonpg98/TIL/blob/master/DB/mysql/mysql%EB%B0%B1%EC%97%85%EB%B0%A9%EB%B2%95.md)
+- [processList보는법](https://github.com/kimjiwonpg98/TIL/blob/master/DB/mysql/processList.md)
+
+#### 😨 error
+- [too many connections 해결](https://github.com/kimjiwonpg98/TIL/blob/master/DB/mysql/error/too_many_connections%ED%95%B4%EA%B2%B0.md)
 
 
 ## ⚙ SERVER
