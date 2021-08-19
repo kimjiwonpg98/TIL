@@ -81,7 +81,7 @@
 - [PROXY](https://github.com/kimjiwonpg98/TIL/blob/master/Knowledge/PROXY.md)
 - [HTTP 상태코드](https://github.com/kimjiwonpg98/TIL/blob/master/server/HTTP%EC%83%81%ED%83%9C%EC%BD%94%EB%93%9C.md)
 - [로드밸런싱](https://github.com/kimjiwonpg98/TIL/blob/master/server/%EB%A1%9C%EB%93%9C%EB%B0%B8%EB%9F%B0%EC%8B%B1%EA%B8%B0%EC%88%A0.md)
-
+- [timewait과 keepalive](https://github.com/kimjiwonpg98/TIL/blob/master/server/timewait%EA%B3%BCkeepalive%EC%83%81%EA%B4%80%EA%B4%80%EA%B3%84.md)
 
 - [JMETER를 이용한 웹서버 테스트](https://github.com/kimjiwonpg98/TIL/blob/master/server/JMETER.md)
 
