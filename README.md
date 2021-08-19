@@ -63,7 +63,7 @@
 ## 📖 DB
 --------------------------------------------------------
 
-### MYSQL / MariaDB
+### MYSQL & MariaDB
 
 - [INSERT](https://github.com/kimjiwonpg98/TIL/blob/master/DB/mysql/INSERT.md)
 - [MYSQL백업방법](https://github.com/kimjiwonpg98/TIL/blob/master/DB/mysql/mysql%EB%B0%B1%EC%97%85%EB%B0%A9%EB%B2%95.md)
