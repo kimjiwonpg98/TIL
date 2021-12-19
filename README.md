@@ -23,6 +23,18 @@
 - [정규표현식](https://github.com/kimjiwonpg98/TIL/blob/master/javascript/%EC%A0%95%EA%B7%9C%ED%91%9C%ED%98%84%EC%8B%9D.md)
 - [this](https://github.com/kimjiwonpg98/TIL/blob/master/javascript/this.md)
 
+## 🏃‍♂️ test
+--------------------------------
+
+### jest
+- [설치&설정](https://github.com/kimjiwonpg98/TIL/blob/master/test/jest/%EC%84%A4%EC%B9%98%26%EC%84%A4%EC%A0%95.md)
+- [matchers](https://github.com/kimjiwonpg98/TIL/blob/master/test/jest/matchers.md)
+
+### TDD
+- [개념](https://github.com/kimjiwonpg98/TIL/blob/master/test/tdd/%EA%B0%9C%EB%85%90.md)
+
+
+
 ## 🏃‍♂️ git
 -----
 
