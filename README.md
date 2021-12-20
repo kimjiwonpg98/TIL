@@ -26,11 +26,11 @@
 ## 🏃‍♂️ test
 --------------------------------
 
-### jest
+### 👷‍♂️ jest
 - [설치&설정](https://github.com/kimjiwonpg98/TIL/blob/master/test/jest/%EC%84%A4%EC%B9%98%26%EC%84%A4%EC%A0%95.md)
 - [matchers](https://github.com/kimjiwonpg98/TIL/blob/master/test/jest/matchers.md)
 
-### TDD
+### 👷‍♂️ TDD
 - [개념](https://github.com/kimjiwonpg98/TIL/blob/master/test/tdd/%EA%B0%9C%EB%85%90.md)
 
 
