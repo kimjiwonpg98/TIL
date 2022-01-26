@@ -68,7 +68,6 @@ export class CatsController {
 
 ### **app.module.ts**
 ```js
-app.module.tsJS
 
 import { Module } from '@nestjs/common';
 import { CatsController } from './cats/cats.controller';
