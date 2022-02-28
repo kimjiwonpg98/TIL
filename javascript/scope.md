@@ -100,6 +100,7 @@ const jo = {
 
 class를 이용해 private constructor를 이용해서 할 수 있다.
 
+끝!
 
 
 
