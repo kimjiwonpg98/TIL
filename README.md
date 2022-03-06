@@ -7,6 +7,7 @@
 
 ### 📖 관련지식
 - [작동방식](https://github.com/kimjiwonpg98/TIL/blob/master/javascript/%EC%9E%91%EB%8F%99%EB%B0%A9%EC%8B%9D.md)
+- [이벤트루프](https://github.com/kimjiwonpg98/TIL/blob/master/javascript/%EC%9D%B4%EB%B2%A4%ED%8A%B8%EB%A3%A8%ED%94%84.md)
 
 ### ⚙ 모듈
 - [bcrypt](https://github.com/kimjiwonpg98/TIL/blob/master/javascript/bcrypt.md)
@@ -148,3 +149,4 @@
 - [process&thread](https://github.com/kimjiwonpg98/TIL/blob/master/Knowledge/process%26thread.md)
 - [mount](https://github.com/kimjiwonpg98/TIL/blob/master/Knowledge/mount.md)
 - [RESTFul개발방식](https://github.com/kimjiwonpg98/TIL/blob/master/Knowledge/RESTFul.md)
+- [브라우저동작과정](https://github.com/kimjiwonpg98/TIL/blob/master/CS/%EB%B8%8C%EB%9D%BC%EC%9A%B0%EC%A0%80%EB%8F%99%EC%9E%91%EA%B3%BC%EC%A0%95.md)
