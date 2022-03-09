@@ -32,4 +32,4 @@ params를 이용해 이미지 압축을 진행할 예정이므로
 
 
 ## 참고 자료
-> [cloudFront 세팅](https://devhaks.github.io/2019/08/25/aws-lambda-image-resizing/) 
+> [cloudFront 세팅](https://devhaks.github.io/2019/08/25/aws-lambda-image-resizing/)
