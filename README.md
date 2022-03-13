@@ -5,6 +5,9 @@
 ## 🏃‍♂️ javascript
 --------------------------------------------------------
 
+### 데이터타입
+- [float과 double의 차이](https://github.com/kimjiwonpg98/TIL/blob/master/javascript/float%EA%B3%BCdouble%EC%9D%98%EC%B0%A8%EC%9D%B4.md)
+
 ### 📖 관련지식
 - [작동방식](https://github.com/kimjiwonpg98/TIL/blob/master/javascript/%EC%9E%91%EB%8F%99%EB%B0%A9%EC%8B%9D.md)
 - [이벤트루프](https://github.com/kimjiwonpg98/TIL/blob/master/javascript/%EC%9D%B4%EB%B2%A4%ED%8A%B8%EB%A3%A8%ED%94%84.md)
