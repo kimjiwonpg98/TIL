@@ -63,3 +63,5 @@ create() {
 -----
 
 상태코드와 같이 HttpMethod Decorator아래에 @Header Decorator를 해준 후 적어주면 된다.
+
+header뿐만 아니라 다른 request data들 모두 커스텀 데코레이터를 이용해 원하는 키값만 받을 수 있게 정할 수 있다.
