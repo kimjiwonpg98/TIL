@@ -19,4 +19,26 @@
 
 ### ** 주의사항
    mysql 설치 시 버전 꼭 적어주길바람
-   버전을 기재하지 않을 시 apt-get 불가능..
+   버전을 기재하지 않을 시 apt-get 불가능.. 
+   
+
+### 한글 설정
+
+1. /etc/mysql/my.cnf에 접속
+2. 아래 내용 작성
+```
+[client]
+default-character-set = utf8
+
+[mysqld]
+init_connect = "SET collation_connection = utf8_general_ci"
+init_connect = "SET NAMES utf8"
+character-set-server = utf8
+collation-server = utf8_general_ci
+
+[mysql]
+default-character-set = utf8
+```
+
+
+[참고자료](https://goateedev.tistory.com/304)
