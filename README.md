@@ -76,6 +76,7 @@
 - [processList보는법](https://github.com/kimjiwonpg98/TIL/blob/master/DB/mysql/processList.md)
 - [insert실패시 auto_increment 증가 이유](https://github.com/kimjiwonpg98/TIL/blob/master/DB/mysql/insert%26auto_increment.md)
 - [foreignkey로 종속되어있는 테이블 삭제 방법](https://github.com/kimjiwonpg98/TIL/blob/master/DB/mysql/foreignkey%EB%A1%9C%EC%82%AD%EC%A0%9C%EC%95%88%EB%90%98%EB%8A%94%ED%8C%8C%EC%9D%BC%EC%82%AD%EC%A0%9C%EB%B2%95.md)
+- [ACID](https://github.com/kimjiwonpg98/TIL/blob/master/DB/mysql/ACID(%ED%8A%B8%EB%9E%9C%EC%9E%AD%EC%85%98).md)
 
 #### 😨 error
 - [too many connections 해결](https://github.com/kimjiwonpg98/TIL/blob/master/DB/mysql/error/too_many_connections%ED%95%B4%EA%B2%B0.md)
