@@ -78,7 +78,7 @@ export const queueFactory = (configService: ConfigService<EnvVars, true>) => ({
 
 Bull를 사용할 레디스를 종속시켜줬으니 이제 큐를 등록해봅시다.
 
-자신이 큐를 사용할 모듈에서 registerQueue를 사용해 등록해줍니다.
+자신이 큐를 사용할 모듈에서 registerQueue 메서드를 사용해 큐를 등록해줍니다.
 저는 글로벌 인터셉터에서 사용할 것이기 때문에 app.module 에서 등록해주었습니다.
 
 ```ts
@@ -88,7 +88,7 @@ BullModule.registerQueue({
 ```
 
 name으로 이름을 등록하여 producer가 알 수 있도록 해줍니다.
-그럼 이렇게 레디스에 등록이 된 것을 볼 수 있습니다.
+서버를 키게 되면 그럼 이렇게 레디스에 큐가 등록 된 것을 볼 수 있습니다.
 ![9D5AAC61-94FA-4C81-AD32-45561EB6ED47](https://user-images.githubusercontent.com/75289370/231488781-1f621ba7-4315-4532-b892-b0015e051c64.jpeg)
 
 ### 실행 방법
@@ -96,7 +96,7 @@ name으로 이름을 등록하여 producer가 알 수 있도록 해줍니다.
 - use-check라는 큐까지 등록을 했으니 큐에 메시지를 저장할 producer를 만들어줘야합니다.
 - producer는 어디서든 어디든 상관없습니다 종속성 주입이 가능한 곳(@Injectable()이 있는 곳)에서 생성자 안에 주입해주면 됩니다.
 
-백문이 불여일견 코드로 알아봅시다.
+코드로 알아봅시다.
 필자는 인터셉터에 넣었으니 인터셉터를 예시 코드로 보여드리겠습니다.
 
 #### Producer
@@ -110,7 +110,7 @@ export class ClientInterceptor implements NestInterceptor {
   private readonly redisClient: Redis;
   constructor(
     @InjectQueue('use-check')
-    private useCheckQueue: Queue, // @InjectQueue('등록한 큐 이름') 을 이용해 종송성 주입
+    private useCheckQueue: Queue, // @InjectQueue('등록한 큐 이름') 을 이용해 종속성 주입
     private reflector: Reflector,
     private readonly redisService: RedisService,
   ) {
@@ -123,7 +123,7 @@ export class ClientInterceptor implements NestInterceptor {
   ): Promise<Observable<any>> {
     return next.handle().pipe(
       catchError(async (err) => {
-        if (await this.redisClient.get('stop')) {
+        if (await this.redisClient.get('stop')) {     // 간단한 redlock 구현
           await this.useCheckQueue.pause(); // consumer 처리 정지
         } else {
           await this.useCheckQueue.resume(); // consumer 처리 다시 시작
@@ -133,7 +133,7 @@ export class ClientInterceptor implements NestInterceptor {
           // 큐에 저장
           'use',
           `${req.method}>${req.route.path}>fail`,
-          { removeOnComplete: true }, // 작업 저장 성공 시 redis 데이터 삭제
+          { removeOnComplete: true }, // 작업 저장 성공 시 작업 데이터 삭제
         );
         throw err;
       }),
@@ -179,6 +179,7 @@ consumer가 큐에서 작업을 꺼내오지 못하도록 조절해주었습니�
 
 - 마지막으로 producer가 큐에 넣은 작업을 실행하는 consumer를 보겠습니다.
 
+use-check.processor.ts
 ```ts
 import { Process, Processor } from '@nestjs/bull';
 import { Job } from 'bull';
